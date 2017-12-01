@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/org/seckill/dao/SeckillDao.java=UTF-8
+encoding//src/main/java/org/seckill/dao/cache/RedisDao.java=UTF-8
+encoding//src/main/java/org/seckill/web/SeckillController.java=UTF-8
+encoding//src/main/webapp/index.jsp=UTF-8
+encoding/<project>=UTF-8
+encoding/README.md=UTF-8
