@@ -12,7 +12,7 @@
             <!--3.0junit使用编程测试，4.0使用注解-->
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.11</version>
+            <version>4.13.1</version>
             <scope>test</scope>
         </dependency>
         <!--补全依赖-->
